@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/allenporter-mcp-server-home-assistant-badge.png)](https://mseep.ai/app/allenporter-mcp-server-home-assistant)
+
 # mcp-server-home-assistant
 
 A Model Context Protocol Server for Home Assistant. See [Model Context Protocol](https://modelcontextprotocol.io/)
